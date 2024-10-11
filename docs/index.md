@@ -8,7 +8,7 @@ has_children: false
 
 Prof. Dr. Lena Gieseke - l.gieseke@filmuniversitaet.de - Film University Babelsberg KONRAD WOLF
 
-Wednesdays, 14.30-15.30,   
+Wednesdays, 14.30-15.30   
 Room: 6119
 
 
