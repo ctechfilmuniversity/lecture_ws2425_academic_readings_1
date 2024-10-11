@@ -6,7 +6,7 @@ has_children: false
 
 # Academic Readings I: Arts & Humanities
 
-Prof. Dr. Lena Gieseke | l.gieseke@filmuniversitaet.de | Film University Babelsberg KONRAD WOLF
+Prof. Dr. Lena Gieseke - l.gieseke@filmuniversitaet.de - Film University Babelsberg KONRAD WOLF
 
 Wednesdays, 14.30-15.30,   
 Room: 6119
@@ -108,8 +108,7 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 * Harari, Y. N. (2024): [Nexus - A Brief History of Information Networks from the Stone Age to AI](https://www.ynharari.com/book/nexus/)
 * Mollick, E. (2024): [Co-Intelligence: Living and Working with AI](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)
 * Crawford, K. (2021):[Atlas of AI](https://katecrawford.net/atlas)
-* Multiple authors (2024):[An AI Society](https://issues.org/wp-content/uploads/2023/12/76-88-An-AI-Society-Winter-2024.pdf)
-    *  (fairly short, must be presented in combination with another reading)
+* Multiple authors (2024):[An AI Society](https://issues.org/wp-content/uploads/2023/12/76-88-An-AI-Society-Winter-2024.pdf) (fairly short, must be presented in combination with another reading)
 * Christian, B. (2020): [The Alignment Problem - How Can Artificial Intelligence Learn Human Values?](https://brianchristian.org/the-alignment-problem/)
 * Dixon, C. (2024):[Read Write Own: Building the Next Era of the Internet](https://readwriteown.com/)
 * Toscano, J. (2018):[Automating Humanity](https://www.simonandschuster.com/books/Automating-Humanity/Joe-Toscano/9781576879207)
@@ -118,8 +117,7 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 * Cox, G. and McLean, A. (2012): [Speaking Code: Coding as Aesthetic and Political Expression](https://direct.mit.edu/books/book/3964/Speaking-CodeCoding-as-Aesthetic-and-Political)
 * Weizenbaum, J. (1976): [Computer Power and Human Reason: From Judgment to Calculation](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)
 * Finn, E. (2018): [What Algorithms Want - Imagination in the Age of Computing](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)
-* Weizenbaum, J. (2008): [On Social and Political Impact of the Long-term History of Computing](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)
-    *  (fairly short, must be presented in combination with another reading)
+* Weizenbaum, J. (2008): [On Social and Political Impact of the Long-term History of Computing](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa) (fairly short, must be presented in combination with another reading)
 * Bucher, T. (2018): [If...Then: Algorithmic Power and Politics](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780190493028.001.0001/oso-9780190493028)
 * Crawford, K. (2016): [Can an Algorithm be Agonistic? Ten Scenes from Life in Calculated Publics](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)
 * Coleman, G. (2012): [Coding Freedom](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa) 
