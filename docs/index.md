@@ -96,6 +96,7 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 * Biggs, M.; Karlsson, H. (Ed.): [The Routledge Companion to Research in the Arts](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)
 * van Es, K.; Schäfer,M. (2017): [The Datafied Society. Studying Culture through Data](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)
 * Perez, C. (2020): [Invisible Women - Exposing Data Bias in a World Designed for Men](https://www.penguin.co.uk/books/111/1113605/invisible-women/9781784706289.html) ([Forbes Review](https://www.forbes.com/sites/grrlscientist/2019/10/22/invisible-women-exposing-data-bias-in-a-world-designed-for-men/#1e85730e3989))
+* Abbate, J. (2017): [Recoding Gender - Women's Changing Participation in Computing](https://mitpress.mit.edu/9780262534536/recoding-gender/)
 * Plant, S. (1997): [Zeros and Ones](https://www.goodreads.com/book/show/927879.Zeros_and_Ones)
 * O'Neil, C. (2016): [Weapons of Math Destruction](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)
 * Chun, W. (2004): [On Software, or the Persistence of Visual Knowledge](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)
