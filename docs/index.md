@@ -147,8 +147,8 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 | 16.10.24 | Introduction                     |       | Lena      |
 | 23.10.24 | No Class                         |       |           |
 | 30.10.24 | No Class                         |       |           |
-| 06.11.24 | Presentation Techniques - Part 1 |       | Lena      |
-| 13.11.24 | Presentation Techniques - Part 2 |       | Lena      |
+| 06.11.24 | [Presentation Techniques - Part 1](how_to_researchtalk_part1.html) |       | Lena      |
+| 13.11.24 | [Presentation Techniques - Part 2](how_to_researchtalk_part2.html) |       | Lena      |
 | 20.11.24 | No Class                         |       |           |
 | 27.11.24  | Weyl, E.G., Tang, A. (2024): [Plurality: The Future of Collaborative Technology and Democracy](https://www.plurality.net/)                              |       |     Aydin      |
 | 04.12.24 | Hovenkamp, H. (2024): [Tech Monopoly](https://direct.mit.edu/books/book/5809/Tech-Monopoly)                              |       |    Philip       |
