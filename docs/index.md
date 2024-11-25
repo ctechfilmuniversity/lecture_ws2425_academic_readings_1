@@ -150,7 +150,7 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 | 06.11.24 | [Presentation Techniques - Part 1](how_to_researchtalk_part1.html) |       | Lena      |
 | 13.11.24 | [Presentation Techniques - Part 2](how_to_researchtalk_part2.html) |       | Lena      |
 | 20.11.24 | No Class                         |       |           |
-| 27.11.24  | Weyl, E.G., Tang, A. (2024): [Plurality: The Future of Collaborative Technology and Democracy](https://www.plurality.net/)                              |       |     Aydin      |
+| 27.11.24  | Weyl, E.G., Tang, A. (2024): [Plurality: The Future of Collaborative Technology and Democracy](https://www.plurality.net/)                              |  17 – 34, 81 – 88, 114 – 128, 270 – 288   |     Aydin      |
 | 04.12.24 | Hovenkamp, H. (2024): [Tech Monopoly](https://direct.mit.edu/books/book/5809/Tech-Monopoly)                              |       |    Philip       |
 | 11.12.24 | Harari, Y. N. (2024): [Nexus - A Brief History of Information Networks from the Stone Age to AI](https://www.ynharari.com/book/nexus/)                              |       |   Gorm        |
 | 18.12.24 |  Mollick, E. (2024): [Co-Intelligence: Living and Working with AI](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)                           |       | Imogen          |
