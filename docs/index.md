@@ -68,7 +68,7 @@ This course is offered in combination with ‘Academic Readings II’, which cov
     * Next to the presentation of the given content, you must briefly **discuss how the content is relevant to CTech**
     * The overall goal of the presentation is to foster a discussion about the text and the discussion is to be moderated by you; You must prepare at least **three questions for the discussion** (it is up to you when to use them). 
 * At the latest one week before the presentation you must let me know, which pages you are going to cover
-* After the presentation you are required to upload your slides to this GitHub repository (into the folder 'submissions')
+* After the presentation you are required to upload your slides to this GitHub repository (into the folder `presentations`)
 
 ### Participation
 
